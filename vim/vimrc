@@ -1,0 +1,17 @@
+unlet! skip_defaults_vim
+source $VIMRUNTIME/defaults.vim
+
+set viminfo='10,<100,:100,%,n~/.config/vim/viminfo
+
+
+set background=dark
+colorscheme lunaperche
+
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+
+
+" keymap
+
+nmap <C-j> i<CR><ESC>

@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+if setxkbmap -query | grep -q ".*caps:swapescape*."; then
+	setxkbmap -option
+else
+	setxkbmap -option caps:swapescape
+fi

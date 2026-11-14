@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/mnt/windows'
+let g:netrw_dirhist_2='/home/wiengsy/.config/kitty'
+let g:netrw_dirhist_1='/home/wiengsy/.config/qtile'
+let g:netrw_dirhist_0='/usr/share/icons/Skyrim-by-ru5tyshark-cursors'
+let g:netrw_dirhist_9='/home/wiengsy/.icons/default'
+let g:netrw_dirhist_8='/home/wiengsy/.icons'
+let g:netrw_dirhist_7='/home/wiengsy'
+let g:netrw_dirhist_6='/home/wiengsy/.icons'
+let g:netrw_dirhist_5='/home/wiengsy/.local/share/.icons/skyrim'
+let g:netrw_dirhist_4='/home/wiengsy/code'
